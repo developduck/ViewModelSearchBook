@@ -1,0 +1,6 @@
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json" "6.31.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json" "6.31.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseProtobufBinary.json" "6.31.0"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseRemoteConfigBinary.json" "6.31.0"
+github "Alamofire/Alamofire" "5.2.2"
+github "Liftric/DIKit" "59d5470d014b013cd1c51a501d9b6bc6b7b3d615"

@@ -1,0 +1,14 @@
+/* 
+  Localization.strings
+  SingleViewApp
+
+  Created by HwangUiTaek on 2020/08/21.
+  Copyright © 2020 example. All rights reserved.
+*/
+
+//server strings
+"no_required_params" = "There are no required parameters.";
+
+//view.book_list strings
+"book_list_txt_title" = "Books";
+"book_list_edt_search_hint" = "Type a book name...";

@@ -1,0 +1,9 @@
+github "Liftric/DIKit" "master"
+github "Alamofire/Alamofire" ~> 5.2.2
+
+#https://firebaseopensource.com/projects/firebase/firebase-ios-sdk/carthage/
+#https://qiita.com/zizi4n5/items/5a4ecbe8bb7ab40a56d4
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseCrashlyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseRemoteConfigBinary.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseProtobufBinary.json"

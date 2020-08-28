@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Local</key>
+	<dict>
+		<key>baseUrl</key>
+		<string>10.100.174.66:3000</string>
+	</dict>
+	<key>Mock</key>
+	<dict>
+		<key>baseUrl</key>
+		<string>https://developduck.mocklab.io</string>
+	</dict>
+	<key>Dev</key>
+	<dict>
+		<key>baseUrl</key>
+		<string>https://www.googleapis.com</string>
+	</dict>
+	<key>Stage</key>
+	<dict>
+		<key>baseUrl</key>
+		<string>staging.example.com</string>
+	</dict>
+	<key>Prod</key>
+	<dict>
+		<key>baseUrl</key>
+		<string>example.com</string>
+	</dict>
+</dict>
+</plist>

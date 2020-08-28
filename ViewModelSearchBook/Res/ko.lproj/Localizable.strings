@@ -1,0 +1,14 @@
+/* 
+  Localization.strings
+  SingleViewApp
+
+  Created by HwangUiTaek on 2020/08/21.
+  Copyright © 2020 example. All rights reserved.
+*/
+
+//server strings
+"no_required_params" = "필수로 요구되는 파라미터가 비어있습니다.";
+
+//view.book_list strings
+"book_list_txt_title" = "도서 목록";
+"book_list_edt_search_hint" = "도서명을 입력해주세요..";
